@@ -1,6 +1,6 @@
-# flutter_crypto_daily_reporter
+# Flutter Crypto Daily Report
 
-A new Flutter project.
+A new Flutter project. Crypto app - News, graphics, and portfolio - V1.0.0
 
 ## Getting Started
 
