@@ -1,6 +1,12 @@
 # Flutter Crypto Daily Report
 
-A new Flutter project. Crypto app - News, graphics, and portfolio - V1.0.0
+A new Flutter project. Crypto app - News, graphics, and portfolio - v1.0.0
+
+Some visual results v1.0.0:
+
+<p align = "center">
+<img src="/images_videos/page1.png" width="300"> <img src="/images_videos/page2.png" width="300">
+</p>
 
 ## Getting Started
 
